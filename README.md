@@ -5,7 +5,7 @@
 
 Overview
 ---
-A convolutional neural networks to classify traffic signs. Using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
+A convolutional neural network to classify traffic signs. Using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
 ## Key files in this repo
 
